@@ -5,7 +5,7 @@
 Olá, me chamo Felipe, tenho 21 anos, e sou do Rio Grande do Sul. 
 Atualmente estou cursando Sistemas de Informação, e estou em busca da minha primeira oportunidade na área do desenvolvimento!
 
-## Vamos nos conectar!
+## 🤝 Vamos nos conectar!
 <a href="https://www.linkedin.com/in/felipe-avila-carvalho/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -14,7 +14,7 @@ Atualmente estou cursando Sistemas de Informação, e estou em busca da minha pr
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -115,7 +115,7 @@ Atualmente estou cursando Sistemas de Informação, e estou em busca da minha pr
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
 <img 
