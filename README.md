@@ -3,7 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 Olá, me chamo Felipe, tenho 21 anos, e sou do Rio Grande do Sul. 
-Atualmente estou cursando Sistemas de Informação, e estou em busca da minha primeira oportunidade na área do desenvolvimento!
+Atualmente estou estudando React Native e Typescript, e estou cursando Sistemas de Informação.
+Em busca da minha primeira oportunidade na área do desenvolvimento!
 
 ## 🤝 Vamos nos conectar!
 <a href="https://www.linkedin.com/in/felipe-avila-carvalho/" target="_blank">
