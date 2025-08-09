@@ -3,7 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 Olá, me chamo Felipe, tenho 21 anos, e sou do Rio Grande do Sul. 
+
 Atualmente estou estudando React Native e Typescript, e estou cursando Sistemas de Informação.
+
+Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Express, MongoDB, Mongoose, MySQL, Sequelize, HTML, CSS, Bootstrap, Tailwind.
 
 Em busca da minha primeira oportunidade na área do desenvolvimento!
 
