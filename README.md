@@ -4,6 +4,7 @@
 
 Olá, me chamo Felipe, tenho 21 anos, e sou do Rio Grande do Sul. 
 Atualmente estou estudando React Native e Typescript, e estou cursando Sistemas de Informação.
+
 Em busca da minha primeira oportunidade na área do desenvolvimento!
 
 ## 🤝 Vamos nos conectar!
