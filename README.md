@@ -8,8 +8,6 @@ Atualmente estou estudando React Native e Typescript, e estou cursando Sistemas 
 
 Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Express, MongoDB, Mongoose, MySQL, Sequelize, HTML, CSS, Bootstrap, Tailwind.
 
-Em busca da minha primeira oportunidade na área do desenvolvimento!
-
 ## 🤝 Vamos nos conectar!
 <a href="https://www.linkedin.com/in/felipe-avila-carvalho/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
