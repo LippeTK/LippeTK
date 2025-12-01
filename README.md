@@ -53,6 +53,14 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 />
 <img 
     align="left" 
+    alt="Java"
+    title="Java"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
     alt="Express"
     title="Express" 
     width="50px" 
@@ -114,14 +122,6 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
     width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
