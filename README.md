@@ -138,10 +138,10 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 
 <p>
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LippeTK&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=LippeTK&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
 </p>
