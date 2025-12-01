@@ -6,7 +6,7 @@ Olá, me chamo Felipe, tenho 21 anos, e sou do Rio Grande do Sul.
 
 Atualmente estou cursando Sistemas de Informação.
 
-Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Express, MongoDB, Mongoose, MySQL, Sequelize, HTML, CSS, Bootstrap, Tailwind.
+Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Java, Express, MongoDB, Mongoose, MySQL, Sequelize, HTML, CSS, Jest, JUnit, Bootstrap, Tailwind.
 
 ## 🤝 Vamos nos conectar!
 <a href="https://www.linkedin.com/in/felipe-avila-carvalho/" target="_blank">
