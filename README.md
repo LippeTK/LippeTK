@@ -77,14 +77,6 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="50px" 
