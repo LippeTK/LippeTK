@@ -115,6 +115,30 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
+<img 
+    align="left" 
+    alt="Jest"
+    title="Jest"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JUnit"
+    title="JUnit"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
+/>
 <br/>
 <br/>
 
