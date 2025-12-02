@@ -37,6 +37,10 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## 📊 Estatísticas
 
 <p>
