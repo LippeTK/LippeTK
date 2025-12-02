@@ -19,122 +19,66 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 
 ## 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Tailwind"
-    title="Tailwind CSS"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Jest"
-    title="Jest"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="JUnit"
-    title="JUnit"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
-/>
+<div>
+  <img alt="JavaScript" title="JavaScript"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="TypeScript" title="TypeScript"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="React" title="React"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Node.js" title="Node.js"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Java" title="Java"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Express" title="Express"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle; filter: invert(100%);" />
+
+  <img alt="MongoDB" title="MongoDB"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="MySQL" title="MySQL"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="HTML5" title="HTML5"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="CSS3" title="CSS3"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Bootstrap" title="Bootstrap"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Tailwind" title="Tailwind CSS"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="Jest" title="Jest"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+
+  <img alt="JUnit" title="JUnit"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
+       style="width:50px; display:inline-block; margin:0 12px 12px 0; vertical-align:middle;" />
+</div>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <div style="clear: both;"></div>
 ## 📊 Estatísticas
