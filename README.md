@@ -136,6 +136,7 @@ Tenho conhecimentos em: Javascript, Typescript, React, React Native, NodeJs, Jav
 <br/>
 <br/>
 
+<div style="clear: both;"></div>
 ## 📊 Estatísticas
 
 <p>
